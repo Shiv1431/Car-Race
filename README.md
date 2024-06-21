@@ -1,2 +1,2 @@
 # Car-Race
-A game using Java Swing
+A car racing game using Java Swing
